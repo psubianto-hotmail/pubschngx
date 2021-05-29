@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\@core",
+    "\\src\\app\\@core\\mock",
+    "\\src\\app\\@core\\mock\\common",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\tables",
+    "\\src\\app\\pages\\tables\\smart-table"
+  ],
+  "SelectedNode": "\\src\\app\\@core\\mock\\common\\smart-table.service.ts",
+  "PreviewInSolutionExplorer": false
+}
